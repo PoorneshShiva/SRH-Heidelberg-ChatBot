@@ -28,7 +28,7 @@ To get started, follow these steps to set up the project environment:
 
 Once the dependencies are installed, you can start the Flask website by running the following command:
 
-    ``bash
+    ```bash
     python app.py
     ```
 
